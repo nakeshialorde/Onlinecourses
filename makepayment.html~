@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+  
+    	body {
+      height: 100%;
+      font-family: Arial, Helvetica, sans-serif;
+		background-image: url('https://cdn.pixabay.com/photo/2016/08/12/03/51/notebook-1587525_960_720.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+      background-size: cover;
+				
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+	
+	    .panel
+			{
+				width: 100%;
+				height: 400px;
+				background-color: #BDB76B;
+				background-repeat: no repeat;
+			   opacity: 0.9;
+ 				filter: alpha(opacity=20); /* For IE8 and earlier */
+				
+			}
+	    
+	    .panel3
+	    		{
+				width: 100%;
+				height: 500px;
+				background-color: #BDB76B;
+				background-repeat: no repeat;
+			   opacity: 0.9;
+ 				filter: alpha(opacity=30); /* For IE8 and earlier */
+ 				
+			}
+    </style>
+    
+    <style> 
+	.process {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+
+    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 30px; /* Firefox */
+    column-gap: 30px;
+
+    -webkit-column-rule: 2px double #2E8B57; /* Chrome, Safari, Opera */
+    -moz-column-rule: 2px double #2E8B57; /* Firefox */
+    column-rule: 2px double #2E8B57;
+				}
+				
+	 .packages {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
+	</style>
+
+
+</head>
+
+<body>
+	<div style="text-align: center;">
+		<img src="img/logo.png.png">
+     <h2 style="font-size:27px"><center>Welcome to our online learning community!</center></h2>
+			<p><small>ACHIEVE ACADEMIC SUCCESS FROM THE COMFORT OF YOUR HOME</small></p>
+	<div class="panel"><p></p>
+			<font color="black"><center><br /><h1> About our Online Courses </h1>
+			<p style="font-size:27px">At Tutors246 our online learning programs provide comprehensive coverage of the CSEC syllabus for each subject, with carefully designed lesson plans and tests to monitor your progress. When you sign up for one of our packages, you will receive progress reports on completion of each section to provide you with insights on your readiness for the exam. We also provide home and on-line tutors to assist you in preparing for the examination by providing guidance on your weaker areas, highlighted in the progress reports. Each course contains several years of timed past papers, to help you reach the appropriate comfort level and readiness for your examinations with both text and video solutions at the end of each test.</p>
+				<p></p>
+				<p style="font-size:20px">Call (246) 236-3949 for further information. </center></font></p>
+			</div>
+</div>
+<p></p>
+
+
+<div style="text-align: center;"><h1>How it works!</h1></div>
+<div style="text-align: center;"><p>Our motto is 100% passing grades with the goal of our students achieving academic success!</p></div>
+
+<div style="text-align: center;"><p style="font-size: 20px;"><b>1. Register and login</b></p><br>
+Sign up for one of our packages, after payment, you will be redirected to our registration page. After registering, login and update your profile information for test tracking and progress reports.</div><br>
+
+<div class="process">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-55-57.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-57-07.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-08%2000-26-53.png" height="300px" width="400px" float="right">
+</div>
+
+
+<div style="text-align: center;"><p style="font-size: 20px;"><b>2. Click on enrolled courses on dashboard menu</b></p><br>
+Click on enrolled courses and you will be redirected to your enrolled courses where you can begin your journey to academic success.</div><br>
+
+<div class="process">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-55-57.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-57-07.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-08%2000-26-53.png" height="300px" width="400px" float="right">
+</div>
+		
+
+<div style="text-align: center;"><p style="font-size: 20px;"><b>3. Course Preview</b></p><br>
+Click on enrolled courses and you will be redirected to your enrolled courses where you can begin your journey to academic success.</div><br>
+
+<div class="process">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-55-57.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-57-07.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-08%2000-26-53.png" height="300px" width="400px" float="right">
+</div>
+	
+	<div style="text-align: center;"><p style="font-size: 20px;"><b>4. Test and Progress Report Preview</b></p><br>
+Click on enrolled courses and you will be redirected to your enrolled courses where you can begin your journey to academic success.</div><br>
+
+<div class="process">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-55-57.png" float="left" height="300px" width="450px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-07%2023-57-07.png" height="300px" width="400px">
+
+<img src="https://raw.githubusercontent.com/nakeshialorde/Online_Course/master/img/Screenshot%20from%202018-08-08%2000-26-53.png" height="300px" width="400px">
+</div>
+	
+	
+<p></p>
+
+<div style="text-align: center;">	<br clear="all"><br><b><small>Note:</b> All on-line courses include practice tests and progress reports.</small></div>
+<div class="panel3"><font color="black">
+	<div style="text-align: center;">
+	<br clear="all"><h1>Packages </h1>
+	
+	<div class="packages">
+	<br clear="all">
+	<b style="font-size: 20px;">Online Course and Tutoring Sessions</b><br clear="all"><br clear="all">
+	<br>Twelve week course
+	<br>3 on-line tutoring sessions
+	<br>1 Home tutoring session <br clear="all">
+<div style="text-align: center;">	
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L95YNU2V65RWY">
+<div style="text-align: center;"></div><table>
+<div style="text-align: center;">
+&nbsp;&nbsp;&nbsp;<tr><td><input type="hidden" name="on0" value="Online Courses"></td></tr><tr><td><select name="os0">
+<div style="text-align: center;">	<option value="CSEC MATHEMATICS">CSEC MATHEMATICS $175.00 USD</option></div>
+<div style="text-align: center;">	<option value="CSEC OFFICE PROCEDURES">CSEC OFFICE PROCEDURES $175.00 USD</option></div>
+<div style="text-align: center;">	<option value="CSEC PRINCIPLES OF BUSINESS">CSEC PRINCIPLES OF BUSINESS $175.00 USD</option></div>
+<div style="text-align: center;">	<option value="CSEC ENGLISH LANGUAGE">CSEC ENGLISH LANGUAGE $175.00 USD</option></div>
+<div style="text-align: center;">	<option value="CSEC ADDITIONAL MATHEMATICS">CSEC ADDITIONAL MATHEMATICS $175.00 USD</option></div>
+</select> </td></tr></div>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+
+
+
+	
+	<p style="font-size: 20px;"><b>Online Course Only (12 Week Subscription)</b></p>
+	<br>Comprehensive coverage of syllabus
+	<br>Progress reports
+	<br>Practice tests
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="7FLPMYHZPVH5L">
+<table>
+&nbsp;&nbsp;&nbsp;<tr><td><input type="hidden" name="on0" value="Course List"></td></tr><tr><td><select name="os0">
+	<option value="CSEC MATHEMATICS">CSEC MATHEMATICS $100.00 USD</option>
+	<option value="CSEC PRINCIPLES OF BUSINESS">CSEC PRINCIPLES OF BUSINESS $100.00 USD</option>
+	<option value="CSEC OFFICE PROCEDURES">CSEC OFFICE PROCEDURES $100.00 USD</option>
+	<option value="CSEC ENGLISH LANGUAGE">CSEC ENGLISH LANGUAGE $100.00 USD</option>
+	<option value="CSEC ADDITIONAL MATHEMATICS">CSEC ADDITIONAL MATHEMATICS $100.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+	<br clear="all"><br><p style="font-size: 20px;"><b>Online Course Only (1 Year Subscription)</b></p>
+
+	<br>Comprehensive coverage of syllabus 
+	<br>Progress reports
+	<br>Practice tests
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="JZ4YZNPTSKVCA">
+<table>
+&nbsp;&nbsp;&nbsp;<tr><td><input type="hidden" name="on0" value="Course List"></td></tr><tr><td><select name="os0">
+	<option value="CSEC MATHEMATICS">CSEC MATHEMATICS $200.00 USD</option>
+	<option value="CSEC PRINCIPLES OF BUSINESS">CSEC PRINCIPLES OF BUSINESS $200.00 USD</option>
+	<option value="CSEC OFFICE PROCEDURES">CSEC OFFICE PROCEDURES $200.00 USD</option>
+	<option value="CSEC ENGLISH LANGUAGE">CSEC ENGLISH LANGUAGE $200.00 USD</option>
+	<option value="CSEC ADDITIONAL MATHEMATICS">CSEC ADDITIONAL MATHEMATICS $200.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</div>
+	
+	</font>
+	</div>	
+</div>
+
+</body>
+</html>
